@@ -1,0 +1,28 @@
+html, body
+{
+    background-color: rgb(29, 0, 255);
+    font-family: Helvetica;
+    font-weight: 700;
+    margin: 0; height: 100%; overflow: hidden
+}
+div 
+{
+  text-align:center;
+  width:100%;
+}
+#hello
+{
+    text-align: right;
+    padding-right: 800px;
+    
+}
+#under
+{
+    text-align: center;
+    padding: 90px;
+}
+#rain
+{
+    text-align: left;
+    padding-left: 705px;
+}
